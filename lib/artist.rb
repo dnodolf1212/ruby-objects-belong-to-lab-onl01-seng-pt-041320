@@ -5,5 +5,3 @@ class Artist
   end 
 
 end
-
-artist = Artist.new
