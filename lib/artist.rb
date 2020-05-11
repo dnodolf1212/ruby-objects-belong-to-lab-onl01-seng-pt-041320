@@ -3,4 +3,6 @@ class Artist
   
   
   
+  
+  
 end
